@@ -45,5 +45,3 @@ $('.comments').slick({
   nextArrow: $('.right'),
   pauseOnHover: true
 });
-
-new WOW().init();
